@@ -1,0 +1,14 @@
+// AUTH
+export const AUTH_LOGIN = 'AUTH.LOGIN';
+
+// WORK ORDER
+export const WORK_ORDER_INDEX = 'WORK_ORDER.INDEX';
+
+// SETUP
+export const SETUP_INDEX = 'SETUP.INDEX';
+
+// PACKAGING
+export const PACKAGING_INDEX = 'PACKAGING.INDEX';
+
+// SHIPPING
+export const SHIPPING_INDEX = 'SHIPPING.INDEX';
